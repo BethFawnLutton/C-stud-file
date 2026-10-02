@@ -1,0 +1,20 @@
+//Library includes
+// #include <library name>
+#include<iostream>
+
+/*
+block comment
+*/
+
+//specific objects from
+using std::cout;
+
+
+// specific objects from Library
+using std::cout;
+//entry point
+int main() {
+    cout <<"hello world";
+    return 0;
+    }
+
